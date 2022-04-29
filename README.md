@@ -6,24 +6,11 @@
 - 💻 Working on - Stretch features for my app, [**Foodies**](https://foodies-web-app.herokuapp.com/)
 - 🔍 Focusing on - React.js, TailwindCSS, and algorithims on Code Signal
 
-<!--
-**alexei-dayrit/alexei-dayrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## About Me 💬
 
 I'm Alexei, a software developer who is always trying to learn and improve every day. I graduated from University of California, Irvine with a bachelor's in psychology, but quickly realized I was interested in programming and started my journey ⛵️. 
+
+I love creating interactive apps and I'm excited to add my twist to the endless projects out on the web.
 
 Some technologies I've learned so far are: JavaScript, React, Node.js, Express.js, PostgreSQL, HTML, TailwindCSS, and CSS.
 
