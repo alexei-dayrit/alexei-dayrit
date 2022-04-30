@@ -8,7 +8,7 @@
 
 ## About Me 💬
 
-I'm Alexei, a software developer who is always trying to learn and improve every day. I graduated from University of California, Irvine with a bachelor's in psychology, but quickly realized I was interested in programming and started my journey ⛵️. 
+I'm Alexei, a software engineer who is always trying to learn and improve every day. I graduated from University of California, Irvine with a bachelor's in psychology, but quickly realized I was interested in programming and started my journey ⛵️. 
 
 I love creating interactive apps and I'm excited to add my twist to the endless projects out on the web.
 
