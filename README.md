@@ -3,7 +3,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alexei-dayrit&count_private=true&show_icons=true&include_all_commits=true&hide=contribs)
 
 - 📚 Stack - PostgreSQL, Express, React, Node.js, JavaScript, HTML5, CSS3
-- 💻 Working on - Stretch features for my app, [**Foodies**](https://foodies-web-app.herokuapp.com/)
+- 💻 Working on - Stretch features/bug fixes for my app, [**Foodies**](https://foodies-web-app.herokuapp.com/)
 - 🔍 Focusing on - React.js, TailwindCSS, and algorithims on Code Signal
 
 ## About Me 💬
@@ -12,14 +12,13 @@ I'm Alexei, a software engineer who is always trying to learn and improve every 
 
 I love creating interactive apps and I'm excited to add my twist to the endless projects out on the web.
 
-Some technologies I've learned so far are: JavaScript, React, Node.js, Express.js, PostgreSQL, HTML, TailwindCSS, and CSS.
-
 #### Fun Facts 👀
 
 - 📍 I live in California, USA
 - 🐶 I have two dogs, Bella (GSD) and Sobe (Pomeranean)
 - 🐱 I have one cat, Miu (Siamese)
-- 🎮 I play Valorant
+- 🎮 I play Valorant (rank: imm3)
+- 🍿 I love movies and TV shows (horror/thriller/comedy/action)
 
 ## Technologies 🤖
 
