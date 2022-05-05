@@ -1,6 +1,6 @@
 ## Hello World, my name is Alexei 👋🌎
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alexei-dayrit&count_private=true&show_icons=true&include_all_commits=true&hide=contribs)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alexei-dayrit&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=react)
 
 - 📚 Stack - PostgreSQL, Express, React, Node.js, JavaScript, HTML5, CSS3
 - 💻 Working on - Stretch features/bug fixes for my app, [**Foodies**](https://foodies-web-app.herokuapp.com/)
