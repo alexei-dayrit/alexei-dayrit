@@ -38,5 +38,14 @@ I love creating interactive apps and I'm excited to add my twist to the endless 
 
 ## Let's Connect 📲
 
-- [LinkedIn](https://www.linkedin.com/in/alexei-dayrit/)
-- [Discord](https://discord.com/users/107735399379537920)
+<a href="https://www.linkedin.com/in/alexei-dayrit" target="">
+  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+</a>
+
+<a href="mailto:alexeigdayrit@gmail.com" target="">
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+</a>
+
+<a href="https://discord.com/users/107735399379537920" target="_blank">
+  <img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white'/>
+</a>
