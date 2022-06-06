@@ -12,7 +12,7 @@ I'm Alexei, a software engineer who is always trying to learn and improve every 
 
 I love creating interactive apps and I'm excited to add my twist to the endless projects out on the web.
 
-#### Fun Facts 👀
+### Fun Facts 👀
 
 - 📍 I live in California, USA
 - 🐶 I have two dogs, Bella (GSD) and Sobe (Pomeranean)
