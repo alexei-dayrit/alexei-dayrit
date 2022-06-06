@@ -4,7 +4,7 @@
 
 - 📚 Stack - PostgreSQL, Express, React, Node.js, JavaScript, HTML5, CSS3
 - 💻 Working on - Algorithms and stretch features/bug fixes for my app, [**Foodies**](https://foodies-web-app.herokuapp.com/)
-- 🔍 Focusing on - React.js, TailwindCSS, and algorithims on Code Signal
+- 🔍 Focusing on - React.js, and algorithims on LeetCode
 
 ## About Me 💬
 
