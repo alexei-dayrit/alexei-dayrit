@@ -3,8 +3,8 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alexei-dayrit&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=react)
 
 - 📚 Stack - PostgreSQL, Express, React, Node.js, JavaScript, HTML5, CSS3
-- 💻 Working on - Algorithms and stretch features/bug fixes for my app, [**Foodies**](https://foodies-web-app.herokuapp.com/)
-- 🔍 Focusing on - React.js, and algorithims on LeetCode
+- 💻 Working on - Small React.js projects and understanding TypeScript.
+- 🔍 Focusing on - Learning all about React.js
 
 ## About Me 💬
 
