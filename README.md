@@ -2,9 +2,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alexei-dayrit&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=react)
 
-- 📚 Stack - PostgreSQL, Express, React, Node.js, JavaScript, HTML5, CSS3
+- 📚 Stack - JavaScript, React, Node.js Express, PostgreSQL, HTML5, CSS3
 - 💻 Working on - Small React.js projects and understanding TypeScript.
-- 🔍 Focusing on - Learning all about React.js
+- 🔍 Focusing on - Updating my Foodies web app
 
 ## About Me 💬
 
