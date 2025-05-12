@@ -1,4 +1,4 @@
-## Hello World, my name is Alexei 👋🌎
+## Hello World, my name is Alex 👋🌎
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alexei-dayrit&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=react)
 
