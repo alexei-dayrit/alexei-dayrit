@@ -3,12 +3,12 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alexei-dayrit&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=react)
 
 - 📚 Stack - JavaScript, React, Node.js Express, PostgreSQL, HTML5, CSS3
-- 💻 Working on - Small React.js projects and understanding TypeScript.
-- 🔍 Focusing on - Updating my Foodies web app
+- 💻 Working on - Learning all things React
+- 🔍 Focusing on - Updating my Foodies web app with more features
 
 ## About Me 💬
 
-I'm Alexei, a software engineer who is always trying to learn and improve every day. I graduated from University of California, Irvine with a bachelor's in psychology, but quickly realized I was interested in programming and started my journey ⛵️. 
+I'm Alexei, a software engineer who is always trying to learn and improve every day. I graduated from University of California, Irvine with a bachelor's in psychology, but quickly realized I was interested in programming and started my journey ⛵️. Now, I'm pursuing a BS in Computer Science from Western Governors University (expected graduation of April 2026). 
 
 I love creating interactive apps and I'm excited to add my twist to the endless projects out on the web.
 
@@ -17,7 +17,7 @@ I love creating interactive apps and I'm excited to add my twist to the endless 
 - 📍 I live in California, USA
 - 🐶 I have two dogs, Bella (GSD) and Sobe (Pomeranean)
 - 🐱 I have one cat, Miu (Siamese)
-- 🎮 I play Valorant (rank: imm3)
+- 🎮 I play Valorant (rank: radiant)
 - 🍿 I love movies and TV shows (horror/thriller/comedy/action)
 
 ## Technologies 🤖
@@ -50,8 +50,4 @@ I love creating interactive apps and I'm excited to add my twist to the endless 
 
 <a href="mailto:alexeigdayrit@gmail.com" target="">
   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
-</a>
-
-<a href="https://discord.com/users/107735399379537920" target="_blank">
-  <img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white'/>
 </a>
